@@ -129,7 +129,7 @@ header{
 
 .product-stats-two > p{
     color: var(--clr--blue-800-photo-text);
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 button{
@@ -174,6 +174,7 @@ button{
 
 .cards{
     margin: 3rem 0;
+    padding: 1rem;
 }
 
 .cards p:nth-child(2){
@@ -353,5 +354,9 @@ footer > div > p{
 @media (min-width: 60rem) {
     .body-info-text-div{
         padding: 4.4rem;
+    }
+
+    .product-info > div{
+        padding: 4rem;
     }
 }
