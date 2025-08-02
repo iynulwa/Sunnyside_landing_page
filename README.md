@@ -36,6 +36,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Hamburger React] (https://www.npmjs.com/package/hamburger-react)
 
 ### What I learned
 
@@ -69,7 +70,7 @@ function Testimonial() {
 
 ### Continued development
 
-The nexy step after finishing this project is a way to add animations to the websites
+The next step after this project is to find a way to add animations to websites
 
 ## Author
 
