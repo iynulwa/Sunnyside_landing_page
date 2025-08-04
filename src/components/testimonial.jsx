@@ -16,7 +16,7 @@ function createCard(info){
 
 function Testimonial() {
     return(
-        <div className='testimonial'>
+        <div role='region' className='testimonial' aria-labelledby='Testimonials'>
             <h2 className='testimonial-heading'>CLIENT TESTIMONIALS</h2>
             <div className='testimonial-card'>
                 {testimonialInfo.map(createCard)}

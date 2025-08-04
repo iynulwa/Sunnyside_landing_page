@@ -11,7 +11,7 @@ function BodyInfo() {
             <div className='body-info-text-div'>
                 <h2>Transform your brand</h2>
                 <p>We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.</p>
-                <button className='transform-btn'>LEARN MORE<div className='yellow-line'></div></button>
+                <button type='button' className='yellow-btn'>LEARN MORE</button>
             </div>
 
             <picture>
@@ -22,7 +22,7 @@ function BodyInfo() {
             <div className='body-info-text-div'>
                 <h2>Stand out to the right audience</h2>
                 <p>Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places.</p>
-                <button className='stand-out-btn'>LEARN MORE<div className='red-line'></div></button>
+                <button type='button' className='red-btn'>LEARN MORE</button>
             </div>
 
             <div className='product-info'>

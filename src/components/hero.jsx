@@ -2,7 +2,7 @@ import './components.css'
 
 function Hero() {
     return(
-        <div className='hero'>
+        <div role='region' className='hero' aria-labelledby='hero section'>
             <picture>
                 <source media='(min-width: 40rem)' srcSet='/images/desktop/image-header.jpg' alt='hero image'/>
                 <img src='/images/mobile/image-header.jpg' alt='hero image' />
